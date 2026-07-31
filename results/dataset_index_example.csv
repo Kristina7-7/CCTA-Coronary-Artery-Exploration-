@@ -1,0 +1,11 @@
+Patient,ImageIndex,Filename,InstanceNumber,NumberOfROIs,MaskPixels
+0,34,patient_0_slice_34.npy,23,1,13
+1,12,patient_1_slice_12.npy,45,1,18
+1,19,patient_1_slice_19.npy,38,1,10
+1,26,patient_1_slice_26.npy,31,1,4
+1,27,patient_1_slice_27.npy,30,2,71
+1,28,patient_1_slice_28.npy,29,1,50
+1,39,patient_1_slice_39.npy,18,2,34
+1,40,patient_1_slice_40.npy,17,5,414
+1,41,patient_1_slice_41.npy,16,3,148
+10,9,patient_10_slice_9.npy,37,1,14
