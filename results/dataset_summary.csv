@@ -1,0 +1,7 @@
+Metric,Value
+Annotated patients processed,449
+Image-mask pairs generated,3671
+Preprocessing errors,0
+Image height,512
+Image width,512
+Mask format,"Binary: 0 = background, 1 = calcium"
