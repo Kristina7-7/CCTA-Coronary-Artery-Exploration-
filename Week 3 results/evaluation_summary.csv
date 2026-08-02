@@ -1,6 +1,0 @@
-Metric,Value
-Test image-mask pairs,528.0
-Mean Dice,0.6318922647065641
-Median Dice,0.693979948759079
-Mean IoU,0.5048565465281876
-Median IoU,0.5313725769519806
