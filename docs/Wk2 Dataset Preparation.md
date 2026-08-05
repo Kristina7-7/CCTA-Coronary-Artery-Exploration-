@@ -28,7 +28,8 @@ binary segmentation masks for coronary artery calcium.
 
 ### Example
 
-![Example CT slice and calcium mask](figures/example_image_mask_pair.png)
+<img width="2003" height="2066" alt="example_image_mask_pair (1)" src="https://github.com/user-attachments/assets/8504b84b-9eeb-4fa6-bcd3-11b31cb3d322" />
+
 
 The red region represents the binary calcium annotation overlaid on
 the corresponding CT slice.
