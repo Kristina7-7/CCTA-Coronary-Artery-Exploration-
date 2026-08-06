@@ -1,0 +1,4 @@
+Metric,Value
+Number of test images,528.0
+Mean Dice,0.864875622400965
+Mean IoU,0.8179408639750773
