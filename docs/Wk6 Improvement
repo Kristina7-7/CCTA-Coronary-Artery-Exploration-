@@ -1,0 +1,14 @@
+## Objective
+
+Finalize the medical image segmentation project by organizing the repository, documenting the workflow, and summarizing model performance.
+
+## Summary
+
+During Week 6, the project was completed by integrating all previous work into a well-organized GitHub repository. A workflow diagram and a performance comparison chart were created to visualize the complete segmentation pipeline and the improvement achieved after fine-tuning. The project documentation and README were also updated to improve readability and reproducibility.
+
+## Results
+
+- Mean Dice: **0.8649**
+- Mean IoU: **0.8179**
+
+The fine-tuned U-Net model achieved better segmentation performance than the baseline model, demonstrating the effectiveness of data augmentation and continued training.
