@@ -1,0 +1,3 @@
+Model,Mean Dice,Mean IoU
+Week 4 U-Net,0.6319,0.5049
+Week 5 Fine-tuned U-Net,0.8649,0.8179
